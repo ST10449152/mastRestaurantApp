@@ -7,7 +7,7 @@
 - Surname: Riches
 - Group: 3
 - Course: Introduction to Mobile Aplications and Web Development
-- [@Weylin Riches]()
+- [@Weylin Riches](https://github.com/ST10449152)
 
 ## Purpose and Key Features
 Login System: The application starts with a login screen. To access the further portions of the software, users must input a predefined username (CHEF CHRISTOFFEL). A simple security measure to guarantee that only authorized users can add or modify the menu items is this login gate.
